@@ -41,7 +41,7 @@ NetSentinel/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/NetSentinel.git
+git clone https://github.com/Nihar2520/NetSentinel.git
 cd NetSentinel
 ```
 
