@@ -122,6 +122,8 @@ The dashboard provides:
 - **Top Attackers**: List of most active malicious IPs
 
 The dashboard auto-refreshes every 5 seconds.
+<img width="1910" height="977" alt="image" src="https://github.com/user-attachments/assets/c8d5c4a2-b614-45c6-b662-5f06c642803f" />
+
 
 ## 🧪 Testing with Traffic Generator
 
